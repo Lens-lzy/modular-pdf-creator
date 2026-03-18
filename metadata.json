@@ -1,0 +1,5 @@
+{
+  "name": "Red Header Doc Editor",
+  "description": "A block-based official document editor for generating Chinese 'Red Header' appointment files (红头文件) with drag-and-drop functionality.",
+  "requestFramePermissions": []
+}
